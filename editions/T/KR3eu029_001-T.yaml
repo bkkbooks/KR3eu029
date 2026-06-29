@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3eu029/t/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 醫宗金鑑·訂正仲景全書金匱要略註
+  edition:
+    short: t
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eu029.xml
+hash: sha256:72fe20e165973d87ba8c7c63cbda57c18ed4b130efc52a0249c3545e2254f08c

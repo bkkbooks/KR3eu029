@@ -1,0 +1,24 @@
+canonical_identifier: bkk:krp/KR3eu029/v1
+canonical_location: https://kanripo.org/bkk/KR3eu029/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 醫宗金鑑·訂正仲景全書金匱要略註
+  identifiers:
+    krp: KR3eu029
+  tags:
+    kr-categories: KR3eu
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eu029.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - seq: 1
+    filename: KR3eu029_001.yaml
+    hash: sha256:72fe20e165973d87ba8c7c63cbda57c18ed4b130efc52a0249c3545e2254f08c
+table_of_contents: []
+hash: sha256:462ebcb06fe4cf975f824ca39a20a9b36afc9a537469d164c6b48814e066d2d7
